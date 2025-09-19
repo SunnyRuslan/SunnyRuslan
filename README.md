@@ -18,5 +18,6 @@ I am Ruslan, a recent master in Computer Science, graduated from National Resear
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+##  ⚡ Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunnyRuslan&theme=material_palenight)
 
